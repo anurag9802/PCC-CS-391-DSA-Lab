@@ -1,0 +1,17 @@
+STEP 1 : START
+
+STEP 2 : Accept the size of array from user in variable len
+
+STEP 3 : Create an array of size len and accept len integers from users
+
+STEP 4: Accept a value n from user. We will check whether n is in the array or not
+
+STEP 5 : Initialize 2 variables , pos=-1 (to store position of element , if present) and com=0 , to count number of comparisions,
+
+STEP 6: Traverse through the array. If the element is found , store the position in pos and break from loop.Keep incrementing com variable.
+
+STEP  7 : after the loop ends , check if pos==-1. If yes , then Search was unsuccessful. If not , print search was successful along with position of n
+
+STEP 8 :Also display number of comparisions in both cases.
+
+STEP  9 : END
